@@ -1,0 +1,54 @@
+body{
+    padding: 20px 0px 0px 0px;
+    z-index: 0;
+}
+.link-black{
+    color: black;
+}
+.jumbotron{
+    text-align: left;
+    margin-top:50px;
+    color:white ;
+    
+}
+
+.logo{
+    margin:10px auto;
+    padding-left: 40px;
+    width:150px;
+    height:30px;
+}
+input[type=text]{
+ border-radius: 5px;
+}
+.card-size{
+    margin-top:-50px;
+    margin-left: 40px;
+    width: 600px;
+    box-shadow: 2px 0px #999;
+}
+.form-buttons{
+    background-color: whitesmoke;
+    color: black;
+    margin-left: 20px;
+    font-size: smaller;
+    font-weight: 120%;
+    margin-top: 20px;
+    box-shadow: 0 3px #999;
+}
+.form-buttons:hover{
+    background-color: rgb(129, 28, 129) ;
+    color: white;
+    animation: 5s;
+    box-shadow: none;
+}
+li a{
+    color: black;
+    
+}
+li a:hover{
+    text-decoration: none;
+}
+.footer{
+    background-color:gainsboro;
+}
